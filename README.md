@@ -1,13 +1,17 @@
 TRAN Thi My Phuong
-blblablablabla
-dsqdsqd
-qsdsqd
-test blabla
-
-
-#Xin chao!
-#Modifiez le contenu du fichier README.md par un texte que l'on modifiera plus tard, puis sauvegarder
-Hey
+<<<<<<< Hretretertret
+ret
+ertre
+tre
+tret
+ert
+erter
+ter
+tre
+tert
+ret
+erte
+iey
 
 test ajout moi
 - OK mec !
